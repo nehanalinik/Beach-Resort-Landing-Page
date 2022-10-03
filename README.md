@@ -1,10 +1,10 @@
-### What is this project?
+### What is this project
 Resort Booking Landing Page
 
 ### Live View on this link
 https://nehanalinik.github.io/Beach-Resort-Landing-Page/
 
-### Built with?
+### Built with
 - React
 - React Hooks
 - props, states
@@ -13,4 +13,4 @@ https://nehanalinik.github.io/Beach-Resort-Landing-Page/
 - Flex-box
 - Grid
 - Mobile first workflow
-- custom carousel
+- Custom carousel

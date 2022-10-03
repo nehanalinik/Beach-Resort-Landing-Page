@@ -9,7 +9,17 @@
     --primary-dark: #5651e5;
     --primary-light: #709dff;
 }
-
+::-webkit-scrollbar{
+    width:10px;
+}
+::-webkit-scrollbar-track {
+    background-color: hsla(220, 83%, 91%, 0.649);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: hsla(242, 74%, 61%, 0.72);
+    border-radius: 10px;
+}
 .icon {
     color: var(--primary-dark);
 }
